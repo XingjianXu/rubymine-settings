@@ -16,6 +16,10 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="QuickChangeScheme" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
@@ -28,9 +32,6 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunToCursor" />
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
