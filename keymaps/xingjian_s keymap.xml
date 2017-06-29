@@ -3,16 +3,36 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="FileChooser.GotoHome" />
   <action id="QuickChangeScheme" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunToCursor" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="StepInto" />
+  <action id="UML.ApplyCurrentLayout" />
   <action id="Uml.NodeIntentions" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
   <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
