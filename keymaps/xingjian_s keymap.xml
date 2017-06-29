@@ -1,0 +1,18 @@
+<keymap version="1" name="xingjian's keymap" parent="Eclipse (Mac OS X)">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="FileChooser.GotoHome" />
+  <action id="QuickChangeScheme" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RunToCursor" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="Uml.NodeIntentions" />
+  <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
+</keymap>
