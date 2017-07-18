@@ -544,6 +544,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/gon-6.1.0/coffee" />
       </SOURCES>
     </library>
+    <library name="gravatar_image_tag (v1.2.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/gravatar_image_tag-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/gravatar_image_tag-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="high_voltage (v3.0.0@03733e, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/high_voltage-03733ef6f12d/app" />
